@@ -12,7 +12,7 @@ public class TreeMapImpl {
 		studentData.put(3, "Kapil");
 		studentData.put(5, "Sanvi");
 		studentData.put(8, "Anvi");
-		studentData.put(9, null);
+		studentData.put(9, "Sapna");
 
 		// not allowing single null key
 		// studentData.put(null, "rohit");
